@@ -1,3 +1,3 @@
 # Start By Capgemini
 
-Aulas de JavaScript e JQuerry
+Aulas de JavaScript e JQuerry.
